@@ -54,6 +54,6 @@ public class SquaresOfThoseIntegers {
 		int[] output=dn.gerResult(input);
 		SquaresOfThoseIntegers.displayInput(output);
 		long timeRuning=System.currentTimeMillis() - timeStart;
-		System.out.println("Time runing : " + timeRuning);
+		//System.out.println("Time runing : " + timeRuning);
 	}
 }
